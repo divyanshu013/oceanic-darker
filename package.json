@@ -1,0 +1,22 @@
+{
+    "name": "oceanic-darker",
+    "displayName": "oceanic-darker",
+    "description": "A darker Oceanic theme",
+    "version": "0.0.1",
+    "publisher": "divyanshu013",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Oceanic Darker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Oceanic Darker-color-theme.json"
+            }
+        ]
+    }
+}
