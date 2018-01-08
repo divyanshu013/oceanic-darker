@@ -1,24 +1,18 @@
-# README
-## This is the README for your extension "oceanic-darker"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Oceanic Darker
+## A darker version of my all-time favorite oceanic
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+![Downloads](https://img.shields.io/vscode-marketplace/v/divyanshu013.oceanic-darker.svg)
+![Downloads](https://img.shields.io/vscode-marketplace/d/divyanshu013.oceanic-darker.svg)
+![Downloads](https://img.shields.io/vscode-marketplace/r/divyanshu013.oceanic-darker.svg)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Installation
 
-**Enjoy!**
+Find the theme on marketplace here or fire up the command palette with <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> and enter:
+```
+ext install oceanic-darker
+```
 
+## Preview
 
-    "workbench.colorCustomizations": {
-        "activityBar.background": "#172329",
-        "tab.inactiveBackground": "#1e2e36",
-        "statusBar.background": "#11181b",
-        "statusBar.noFolderBackground": "#1B2B34",
-        "sideBar.background": "#1d2a30",
-        "editorGroupHeader.tabsBackground": "#1B2B34",
-        "tab.activeBorder": "#FAC863"
-    },
+![alt](./assets/oceanic-darker.png)
+

@@ -1,22 +1,47 @@
 {
-    "name": "oceanic-darker",
-    "displayName": "oceanic-darker",
-    "description": "A darker Oceanic theme",
-    "version": "0.0.1",
-    "publisher": "divyanshu013",
-    "engines": {
-        "vscode": "^1.19.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Oceanic Darker",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Oceanic Darker-color-theme.json"
-            }
-        ]
-    }
+	"name": "oceanic-darker",
+	"displayName": "Oceanic Darker",
+	"description": "A darker Oceanic theme",
+	"version": "0.0.1",
+	"publisher": "divyanshu013",
+	"author": {
+		"name": "Divyanshu Maithani",
+		"email": "div.blackcat@gmail.com",
+		"url": "https://github.com/divyanshu013"
+	},
+	"license": "MIT",
+	"bugs": {
+		"email": "div.blackcat@gmail.com",
+		"url": "https://github.com/divyanshu013/oceanic-darker/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/divyanshu013/oceanic-darker"
+	},
+	"homepage": "https://github.com/divyanshu013/oceanic-darker/blob/master/README.md",
+	"engines": {
+		"vscode": "^1.19.0"
+	},
+	"icon": "assets/oceanic-darker-icon.png",
+	"galleryBanner": {
+		"theme": "dark",
+		"color": "#1B2B34"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Oceanic Darker",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Oceanic Darker-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "83b70227-346c-40bb-9da6-3cdc0d893a8f",
+		"publisherDisplayName": "Divyanshu Maithani",
+		"publisherId": "2769f754-596b-456c-9cc8-c7c80e566d3d"
+	}
 }
